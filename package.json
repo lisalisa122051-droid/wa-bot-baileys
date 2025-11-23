@@ -1,0 +1,16 @@
+{
+  "name": "simple-wa-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.1",
+    "axios": "^1.6.0",
+    "moment": "^2.29.4",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.0.0"
+  }
+}
